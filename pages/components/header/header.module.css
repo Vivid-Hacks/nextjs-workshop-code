@@ -1,0 +1,8 @@
+.navportion {
+    position: relative;
+    top: -50px;
+}
+.navportion a {
+    display: inline-block;
+    margin-right: 20px;
+}
